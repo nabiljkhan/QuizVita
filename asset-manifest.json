@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuizVita/static/css/main.250b25a4.css",
+    "main.js": "/QuizVita/static/js/main.b1425bdd.js",
+    "index.html": "/QuizVita/index.html",
+    "main.250b25a4.css.map": "/QuizVita/static/css/main.250b25a4.css.map",
+    "main.b1425bdd.js.map": "/QuizVita/static/js/main.b1425bdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.250b25a4.css",
+    "static/js/main.b1425bdd.js"
+  ]
+}
